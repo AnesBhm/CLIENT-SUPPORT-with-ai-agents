@@ -1,0 +1,638 @@
+Processing ticket 1
+Finished ticket 1 with score 0.8252445490633356
+Processing ticket 2
+Finished ticket 2 with score 0.7767049215787349
+Processing ticket 3
+Ticket 3 Result:
+  Classification: to reset your password, follow these steps:
+
+1. go to the login page and click on 'forgot password'.
+2. enter the email address associated with your account.
+3. you will receive an email with a link to reset your password.
+4. click on the link and follow the instructions to create a new password.
+
+if you do not receive an email, please check your spam folder or contact support for further assistance.
+  Confidence: 0.0
+  Is Safe: False
+  Response: Unknown classification: to reset your password, follow these steps:
+
+1. go to the login page and click on 'forgot password'.
+2. enter the email address associated with your account.
+3. you will receive an email with a link to reset your password.
+4. click on the link and follow the instructions to create a new password.
+
+if you do not receive an email, please check your spam folder or contact support for further assistance.
+
+Processing ticket 4
+Ticket 4 Result:
+  Classification: to reset your password, follow these steps:
+
+1. go to the login page and click on "forgot password."
+2. enter the email address associated with your account.
+3. you will receive an email with a link to reset your password.
+4. click on the link and follow the instructions to create a new password.
+
+if you still encounter issues, please provide more details about the problem.
+  Confidence: 0.0
+  Is Safe: False
+  Response: Unknown classification: to reset your password, follow these steps:
+
+1. go to the login page and click on "forgot password."
+2. enter the email address associated with your account.
+3. you will receive an email with a link to reset your password.
+4. click on the link and follow the instructions to create a new password.
+
+if you still encounter issues, please provide more details about the problem.
+
+Processing ticket 5
+ERROR calling agentic service: 
+Processing ticket 6
+Ticket 6 Result:
+  Classification: doxa_related
+  Confidence: 0.0
+  Is Safe: False
+  Response: I apologize, but I encountered an error processing your request. Please contact support@doxa.dz
+
+Processing ticket 7
+ERROR calling agentic service: 
+Processing ticket 8
+Ticket 8 Result:
+  Classification: ambiguous
+  Confidence: 0.0
+  Is Safe: False
+  Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help', try 'How do I create a project in Doxa?'
+
+Processing ticket 9
+Ticket 9 Result:
+  Classification: ambiguous
+  Confidence: 0.0
+  Is Safe: False
+  Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help', try 'How do I create a project in Doxa?'
+
+Processing ticket 10
+Ticket 10 Result:
+  Classification: ambiguous
+  Confidence: 0.0
+  Is Safe: False
+  Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help', try 'How do I create a project in Doxa?'
+
+Processing ticket 11
+Ticket 11 Result:
+  Classification: ambiguous
+  Confidence: 0.0
+  Is Safe: False
+  Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help', try 'How do I create a project in Doxa?'
+
+Processing ticket 12
+Ticket 12 Result:
+  Classification: doxa_related
+  Confidence: 0.0
+  Is Safe: False
+  Response: I apologize, but I encountered an error processing your request. Please contact support@doxa.dz
+
+Processing ticket 13
+Ticket 13 Result:
+  Classification: doxa_related
+  Confidence: 0.0
+  Is Safe: False
+  Response: DEBUG ERROR: 403 Your API key was reported as leaked. Please use another API key.
+
+Processing ticket 14
+Ticket 14 Result:
+  Classification: doxa_related
+  Confidence: 0.0
+  Is Safe: False
+  Response: DEBUG ERROR: 403 Your API key was reported as leaked. Please use another API key.
+
+Processing ticket 15
+Ticket 15 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: Pour créer un compte sur Doxa, suivez les étapes suivantes :
+
+1.  **Accédez au site web :** Allez sur www.doxa.dz.
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+2.  **Commencez l'inscription :** Cliquez sur le bouton "Commencer gratuitement".
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+3.  **Saisissez vos informations :**
+    *   Entrez votre adresse email (par exemple : alice@mycompany.com).
+    *   Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (exemple valide : Doxa2025!).
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+4.  **Finalisez l'inscription :** Cliquez sur "S’inscrire".
+    *Source : Page 2 (GUIDE ONBOARDING)*
+5.  **Vérifiez votre email :** Un lien d'activation vous sera envoyé par email. Cliquez sur ce lien pour vérifier votre compte.
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+6.  **Connectez-vous :** Une fois votre compte activé, connectez-vous à Doxa.
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+7.  **Créez votre espace de travail :** Sur l'écran d'accueil, vous serez invité à configurer votre espace de travail en fournissant :
+    *   Le nom de l'espace de travail (votre entreprise/équipe, exemple : "TechStartup Inc").
+    *   Votre secteur d'activité.
+    *   La taille de votre équipe (nombre de personnes).
+    *   Un logo (optionnel).
+    *   Cliquez ensuite sur "Créer espace".
+    *Source : Page 4, Page 2 (GUIDE ONBOARDING)*
+
+Processing ticket 16
+ERROR calling agentic service: All connection attempts failed
+Processing ticket 17
+Ticket 17 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. Allez sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. Cliquez sur "Commencer gratuitement" ou "S'inscrire".
+3. Entrez votre email (par exemple : alice@mycompany.com).
+4. Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (un exemple valide est "Doxa2025!").
+5. Vérifiez votre email en cliquant sur le lien d'activation.
+6. Connectez-vous.
+
+Une fois ces étapes réalisées, votre compte est créé et vous êtes dans Doxa.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 1
+Finished ticket 1 with score 0.4190901800582901
+Processing ticket 2
+Finished ticket 2 with score 0.47934052346059297
+Processing ticket 3
+Ticket 3 Result:
+  Classification: doxa_related
+  Confidence: 0.95  
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. Allez sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. Cliquez sur "Commencer gratuitement" ou "S'inscrire".
+3. Entrez votre email (par exemple : alice@mycompany.com).
+4. Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (un exemple valide est "Doxa2025!").
+5. Vérifiez votre email en cliquant sur le lien d'activation.
+6. Connectez-vous.
+
+Une fois ces étapes réalisées, votre compte est créé et vous êtes dans Doxa.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 4
+Ticket 4 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. **Allez sur le site web de Doxa** : Rendez-vous sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. **Cliquez sur "Commencer gratuitement"** : Ce bouton vous permettra d'initier le processus d'inscription.
+3. **Entrez votre adresse email et créez un mot de passe** : Vous devez fournir une adresse email valide (par exemple, alice@mycompany.com) et créer un mot de passe fort. Le mot de passe doit contenir au minimum 8 caractères, inclure au moins 1 majuscule et 1 chiffre (par exemple, Doxa2025!).
+4. **Cliquez sur "S'inscrire"** : Après avoir entré vos informations.
+5. **Vérifiez votre email** : Un lien d'activation vous sera envoyé par email. Cliquez sur ce lien pour activer votre compte.
+6. **Connectez-vous** : Une fois votre compte activé, vous pouvez vous connecter.
+7. **Créez votre premier espace de travail** : Après la connexion, vous serez invité à configurer votre espace de travail en fournissant le nom de votre entreprise/équipe et en sélectionnant votre secteur d'activité.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 5
+Ticket 5 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. **Allez sur le site web** : Rendez-vous sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. **Cliquez sur "Commencer gratuitement"** : Cliquez sur le bouton "Commencer gratuitement".
+3. **Entrez vos informations** : Entrez votre adresse email (par exemple : alice@mycompany.com) et créez un mot de passe fort. Le mot de passe doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (Exemple valide : Doxa2025!).
+4. **Cliquez sur "S'inscrire"** : Après avoir entré vos informations, cliquez sur "S'inscrire".
+5. **Vérifiez votre email** : Vous devriez recevoir un email de vérification. Cliquez sur le lien d'activation dans cet email.
+6. **Connectez-vous** : Une fois votre email vérifié, connectez-vous à votre compte.
+7. **Créez votre espace de travail** : Créez votre premier espace de travail en renseignant le nom de votre entreprise/équipe (par exemple : "TechStartup Inc") et en sélectionnant votre secteur. Vous pouvez également ajouter un logo optionnel et indiquer la taille de votre équipe.
+
+Votre compte est maintenant créé et vous êtes dans Doxa.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 6
+Ticket 6 Result:
+  Classification: sensitive
+  Confidence: 0.0
+  Is Safe: False
+  Response: ⚠️ ALERTE SÉCURITÉ: Votre message contient des données personnelles sensibles (numéros de carte, téléphone, email, etc.). Pour votre protection, ces informations ont été détectées et votre demande sera traitée par un agent humain. Ne partagez JAMAIS vos données sensibles dans un chat.
+
+Processing ticket 7
+Ticket 7 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant la facturation du plan Pro sur Doxa.
+
+Nous comprenons que vous souhaitez obtenir des informations sur le coût, les fonctionnalités, les garanties, et les conditions de facturation du plan Pro.
+
+Voici les détails :
+
+- **Coût :** Le plan Pro coûte **11 850 DZD par mois**.
+- **Fonctionnalités incluses :**
+  - Projets illimités
+  - Jusqu'à 30 membres
+  - Tous les types de projets
+  - Plus de 200 intégrations
+  - Support prioritaire
+
+- **Garanties et SLA :**
+  - **Uptime SLA :** Best effort (99.0% cible, non garanti)
+  - **Performance SLA :** Réponse API <200ms (p99)
+
+- **Conditions de facturation :**
+  - **Modalités de paiement :** Paiement d’avance, facturation au premier de chaque mois, service actif dès le paiement confirmé.
+  - **Changement de plan :** Vous pouvez changer de plan via Paramètres → « Facturation » → « Plan actuel » → « Changer plan ». Si vous montez de niveau (par exemple, vers le plan Pro), la différence au prorata est facturée immédiatement.
+  - **Factures :** Vous pouvez télécharger vos factures en PDF via Paramètres → onglet « Facturation » → « Factures ». Toutes les factures sont conservées 5 ans minimum.
+  - **Questions de facturation :** Pour toute question, vous pouvez contacter billing@doxa.dz. Une réponse est garantie en moins de 24h.
+  - **Changer les informations de facturation :** Vous pouvez modifier vos informations via Paramètres → « Facturation » → « Adresse facturation ».
+  - **Résiliation :** Pour un paiement mensuel, la résiliation est possible à tout moment et prend effet à la fin du mois en cours. Il n'y a pas de durée minimale d'engagement pour les paiements mensuels.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 10
+ERROR calling agentic service: All connection attempts failed
+Processing ticket 11
+ERROR calling agentic service: All connection attempts failed
+Processing ticket 12
+Ticket 12 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+Processing ticket 13
+Ticket 13 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+Processing ticket 14
+Ticket 14 Result:
+  Classification: sensitive
+  Confidence: 0.0
+  Is Safe: False
+  Response: ⚠️ ALERTE SÉCURITÉ: Votre message contient des données personnelles sensibles (numéros de carte, téléphone, email, etc.). Pour votre protection, ces informations ont été détectées et votre demande sera traitée par un agent humain. Ne partagez JAMAIS vos données sensibles dans un chat.
+
+Processing ticket 15
+Ticket 15 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+Processing ticket 16
+Ticket 16 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. **Allez sur le site web** : Rendez-vous sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. **Cliquez sur "Commencer gratuitement"** : Cliquez sur le bouton "Commencer gratuitement".
+3. **Entrez votre email et créez un mot de passe** : Saisissez votre adresse email (par exemple : alice@mycompany.com) et créez un mot de passe fort. Le mot de passe doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre.
+4. **Cliquez sur "S'inscrire"** : Après avoir entré vos informations, cliquez sur "S'inscrire".
+5. **Vérifiez votre email** : Un lien d'activation vous sera envoyé par email. Cliquez sur ce lien pour vérifier votre compte.
+6. **Connectez-vous** : Une fois votre compte activé, connectez-vous à Doxa.
+7. **Créez votre premier espace de travail** : Vous serez invité à créer votre premier espace de travail en renseignant le nom de votre entreprise/équipe et le secteur d'activité.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 17
+Ticket 17 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. Allez sur [www.doxa.dz](http://www.doxa.dz) (ou doxa.dz).
+2. Cliquez sur “Commencer gratuitement”.
+3. Entrez votre email (par exemple : alice@mycompany.com).
+4. Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (par exemple : Doxa2025!).
+5. Cliquez sur “S’inscrire”.
+6. Vérifiez votre email en cliquant sur le lien d’activation.
+7. Connectez-vous.
+
+Une fois ces étapes réalisées, votre compte est créé et vous êtes dans Doxa.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+Processing ticket 18
+Ticket 18 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. **Allez sur le site web** : Rendez-vous sur doxa.dz ou www.doxa.dz.
+2. **Cliquez sur "Commencer gratuitement"**.
+3. **Entrez votre adresse email** (par exemple : alice@mycompany.com).
+4. **Créez un mot de passe fort** : Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (exemple valide : Doxa2025!).
+5. **Cliquez sur "S'inscrire"**.
+6. **Vérifiez votre email** : Un lien d'activation vous sera envoyé.
+7. **Connectez-vous** une fois votre compte activé.
+
+Après la création de votre compte, vous serez invité à configurer votre espace de travail :
+
+1. **Nommez votre espace de travail** (par exemple : "TechStartup Inc").
+2. **Sélectionnez votre secteur** d'activité.
+3. **Indiquez la taille de votre équipe** (nombre de personnes).
+4. **Téléchargez un logo** (optionnel).
+5. **Cliquez sur "Créer espace"**.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+[START] Processing ticket 19
+[REQUEST] Sending to Agentic Service: {'subject': 'account', 'description': 'comment creer un compte sur doxa', 'category': None}
+Ticket 19 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. **Allez sur le site web** : Rendez-vous sur [www.doxa.dz](http://www.doxa.dz) ou [doxa.dz](http://doxa.dz).
+2. **Commencez l'inscription** : Cliquez sur le bouton "Commencer gratuitement".
+3. **Entrez vos informations** :
+   - Entrez votre adresse email (par exemple : alice@mycompany.com).
+   - Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, inclure 1 majuscule et 1 chiffre (exemple valide : Doxa2025!).
+4. **Finalisez l'inscription** : Cliquez sur "S’inscrire".
+5. **Vérifiez votre email** : Vous recevrez un email de vérification avec un lien d'activation. Cliquez sur ce lien pour activer votre compte.
+   - Si vous ne recevez pas l'email, vérifiez vos dossiers spam/promotions. Le lien d'activation expire après 24 heures ; si c'est le cas, cliquez sur "Renvoyer email".
+6. **Connectez-vous** : Une fois votre compte activé, connectez-vous à Doxa.
+7. **Créez votre espace de travail** : Vous serez invité à configurer votre premier espace de travail en fournissant :
+   - Le nom de l'espace de travail (par exemple : "TechStartup Inc").
+   - Votre secteur d'activité.
+   - La taille de votre équipe.
+   - Un logo (optionnel).
+   Cliquez ensuite sur "Créer espace".
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+[COMPLETE] Ticket 19 processed. Status: Resolved By AI, Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un com...
+[START] Processing ticket 20
+[REQUEST] Sending to Agentic Service: {'subject': 'account', 'description': 'comment creer un compte sur doxa', 'category': None}
+Ticket 20 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte sur Doxa.
+
+Voici les étapes à suivre :
+
+1. Allez sur [www.doxa.dz](http://www.doxa.dz) (ou doxa.dz).
+2. Cliquez sur “Commencer gratuitement”.
+3. Entrez votre email (par exemple : alice@mycompany.com).
+4. Créez un mot de passe fort. Il doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (par exemple : Doxa2025!).
+5. Cliquez sur “S’inscrire”.
+6. Vérifiez votre email en cliquant sur le lien d’activation.
+7. Connectez-vous.
+
+Une fois ces étapes réalisées, votre compte est créé et vous êtes dans Doxa.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+[COMPLETE] Ticket 20 processed. Status: Resolved By AI, Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un com...
+[START] Processing ticket 21
+[REQUEST] Sending to Agentic Service: {'subject': 'sqkdfj', 'description': 'sdfxcgbhjk,l;m:lnb,knj;', 'category': None}
+Ticket 21 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 21 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 22
+[REQUEST] Sending to Agentic Service: {'subject': 'qsdwfghjklm;', 'description': 'dxffffffffffffffffffffb;hjkljdxfcvhipokljhghv', 'category': None}
+Ticket 22 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 22 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 23
+[REQUEST] Sending to Agentic Service: {'subject': 'klhlohlhlihlhlknln', 'description': 'kjbgbglihohophjhljilhmpihp', 'category': None}
+Ticket 23 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 23 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 24
+[REQUEST] Sending to Agentic Service: {'subject': 'sssssssssssssssssssssssssssqsdck,', 'description': 'kjlqscqvhckjlvckjqssddsjl\n', 'category': None}
+Ticket 24 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 24 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 25
+[REQUEST] Sending to Agentic Service: {'subject': 'jujkjkhkhkjhkjhkjhkhkhjkjhk', 'description': 'jlnjkn,;n;,n;n;,n;,;n;,;n;,n,n;,n;,', 'category': None}
+Ticket 25 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 25 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 26
+[REQUEST] Sending to Agentic Service: {'subject': 'pro subsc', 'description': 'why should i get a pro subscription ?????\n', 'category': None}
+Ticket 26 Result:
+  Classification: doxa_related
+  Confidence: 0.95
+  Is Safe: True
+  Response: ---
+
+Thank you for reaching out to us.
+
+We understand that you would like to know why you should get a Pro subscription.
+
+Here are the key benefits and features of the Doxa Pro plan:
+
+**Included Features:**
+- **Unlimited projects**
+- Up to **30 members**
+- **All project types**: Kanban, Agile/Scrum, Waterfall, Timeline, Dashboard
+- **Advanced integrations**: 200+ tools (Slack, Teams, GitHub, Google, Zapier, etc.)
+- **Full REST API access** (1000 requests/hour)
+- **50 GB storage** for attachments
+- **Data history**: 12 months
+- **Exports**: CSV, PDF, JSON
+- **Advanced automations**: up to 50 rules
+- Custom reports and dashboards
+- **Webhooks** for events
+- Unlimited custom fields
+- Real-time collaboration via WebSocket
+- Daily backup guaranteed
+- Basic audit logs
+
+**Support:**
+- **Priority email support** (response <24h)
+- **Chat support** (9 AM - 6 PM CET, Monday to Friday)
+
+**Guarantees & SLA:**
+- **Uptime SLA**: Best effort (target of 99.0%, not guaranteed)
+- **Performance SLA**: API response <200ms (p99)
+
+**Pricing and Payment:**
+- **Price**: 11,850 DZD/month
+- **Billing cycle**: Monthly payment by default, or annual payment with a 20% discount
+- **Free trial**: 14 days of full access to the Pro plan without requiring a credit card
+- **Refund**: "30-day satisfaction guarantee" policy for a full refund if not satisfied
+
+**Special Offer for Startups (Accelerator):**
+- Fast-growing seed/Series A startups can benefit from the Pro plan for the first year at 11,850 DZD/month, with a free Enterprise upgrade the second year. This allows you to test Pro usage and upgrade risk-free.
+
+Please don't hesitate to reach out if you have further questions.
+Contact: support@doxa.dz
+
+[COMPLETE] Ticket 26 processed. Status: Resolved By AI, Response: ---
+
+Thank you for reaching out to us.
+
+We understand that you would like to know why you should get...
+[START] Processing ticket 27
+[REQUEST] Sending to Agentic Service: {'subject': 'teckkk', 'description': 'teckniqal probleme hhdh', 'category': None}
+Ticket 27 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 27 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 28
+[REQUEST] Sending to Agentic Service: {'subject': 'ogugigbugigubog', 'description': 'ionionpoeznfzefzef', 'category': None}
+Ticket 28 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 28 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 29
+[REQUEST] Sending to Agentic Service: {'subject': 'i cant login', 'description': 'i tried to login i cant', 'category': None}
+Ticket 29 Result:
+  Classification: ambiguous
+  Confidence: 0.0
+  Is Safe: False
+  Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help', try 'How do I create a project in Doxa?'
+
+[COMPLETE] Ticket 29 processed. Status: Escalated, Response: Your question is too vague. Please provide more specific details. Example: Instead of 'I need help',...
+[START] Processing ticket 30
+[REQUEST] Sending to Agentic Service: {'subject': ';jhmklh', 'description': 'kjhkljhkjh', 'category': None}
+Ticket 30 Result:
+  Classification: spam
+  Confidence: 0.0
+  Is Safe: False
+  Response: This appears to be spam or nonsense. Please provide a valid query.
+
+[COMPLETE] Ticket 30 processed. Status: Escalated, Response: This appears to be spam or nonsense. Please provide a valid query....
+[START] Processing ticket 31
+[REQUEST] Sending to Agentic Service: {'subject': 'creer account', 'description': 'comment creer un compte', 'category': None}
+Ticket 31 Result:
+  Classification: doxa_related
+  Confidence: 0.87
+  Is Safe: True
+  Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un compte Doxa.
+
+Voici les étapes à suivre :
+
+1. Allez sur [www.doxa.dz](http://www.doxa.dz).
+2. Cliquez sur **“Commencer gratuitement”**.
+3. Entrez votre adresse email (par exemple : alice@mycompany.com) et créez un mot de passe fort. Le mot de passe doit contenir au minimum 8 caractères, 1 majuscule et 1 chiffre (exemple valide : Doxa2025!).
+4. Cliquez sur **“S’inscrire”**.
+5. Vérifiez votre email pour le lien d’activation.
+6. Connectez-vous.
+7. Créez votre premier espace de travail en renseignant le nom de votre entreprise/équipe (par exemple : “TechStartup Inc”) et votre secteur.
+
+N'hésitez pas à nous recontacter si vous avez d'autres questions.
+Contact : support@doxa.dz
+
+[COMPLETE] Ticket 31 processed. Status: Resolved By AI, Response: ---
+
+Merci de nous avoir contactés concernant Doxa.
+
+Nous comprenons que vous souhaitez créer un com...
+[START] Processing ticket 32
+[REQUEST] Sending to Agentic Service: {'subject': 'creation du compte', 'description': 'je peut pas cree un compte alors comment je la faire', 'category': None}
+[ERROR] Ticket 32 - Connection error: All connection attempts failed

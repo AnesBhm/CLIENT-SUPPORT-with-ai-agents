@@ -1,0 +1,22 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings>=2.10.1
+python-dotenv==1.0.1
+
+# AI/ML Libraries
+langchain-community==0.4.1
+chromadb==1.3.7
+google-generativeai==0.8.5
+pandas==2.2.2
+langchain-text-splitters==1.1.0
+FlagEmbedding==1.3.5
+opentelemetry-exporter-otlp-proto-http==1.39.1
+# Agent Framework
+agno
+
+# HTTP Client
+httpx==0.27.2
+
+# Type hints
+typing-extensions==4.12.2
