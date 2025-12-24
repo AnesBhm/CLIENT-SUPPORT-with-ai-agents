@@ -1,4 +1,4 @@
-Client Support with AI Agents
+# Client Support with AI Agents
 
 This project is a comprehensive customer support system utilizing AI agents, consisting of three main components:
 1.  **Main Backend (FastAPI)**: Handles core business logic, database, and API.
