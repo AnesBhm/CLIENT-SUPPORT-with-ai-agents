@@ -8,7 +8,7 @@ from FlagEmbedding import BGEM3FlagModel
 
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyC_LOAdwi2z2aEZlCCUYe0JK--azhfc2zA')
+genai.configure(api_key='add key here')
 model_ai = genai.GenerativeModel("gemini-2.5-flash")
 
 model = BGEM3FlagModel(

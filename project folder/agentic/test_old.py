@@ -19,7 +19,7 @@ def run_rag_pipeline(user_query: str, max_retries: int = 3) -> dict:
         from FlagEmbedding import BGEM3FlagModel
         
         # Initialize RAG components
-        genai.configure(api_key='AIzaSyC_LOAdwi2z2aEZlCCUYe0JK--azhfc2zA')
+        genai.configure(api_key='add key here')
         gemini_model = genai.GenerativeModel("gemini-2.5-flash")
         
         bge_model = BGEM3FlagModel("BAAI/bge-m3", use_fp16=True)
